@@ -28,10 +28,10 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.cmswire.com/social-business/how-ai-will-serve-us-in-the-workplace/'
 title: How AI Will Serve Us in the Workplace
-datePublished: '2016-07-16T10:00:56.255Z'
-dateModified: '2016-07-16T09:58:09.410Z'
-starred: false
+datePublished: '2016-07-16T10:17:49.349Z'
+dateModified: '2016-07-16T10:17:48.416Z'
 sourcePath: _posts/2016-07-16-how-ai-will-serve-us-in-the-workplace.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
