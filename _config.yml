@@ -1,0 +1,14 @@
+layout_spectrum: 0.559477727394551
+typography_spectrum: 0.2449321064632386
+color:
+  brandStrength: 0.04030027752742171
+  lightness: 0.648656613426283
+  saturation: 0.19082886446267366
+  rhythmicContrast: 0.7787368991412222
+  brandColors:
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+name: serendipity
