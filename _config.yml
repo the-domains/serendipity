@@ -1,4 +1,3 @@
-layout_spectrum: 0.559477727394551
 typography_spectrum: 0.2449321064632386
 color:
   brandStrength: 0.04030027752742171
@@ -11,4 +10,8 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: serendipity
+layout_spectrum: 0.559477727394551
+name: Nudge
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa5b33cd-878d-4066-9a47-0235245f665a.jpg
+title: Changing behaviour at  scale
