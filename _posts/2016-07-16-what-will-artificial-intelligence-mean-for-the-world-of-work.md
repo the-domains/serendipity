@@ -60,8 +60,8 @@ app_links:
 isBasedOnUrl: >-
   https://www.theguardian.com/sustainable-business/2015/feb/17/artificial-intelligence-future-of-work
 title: What will artificial intelligence mean for the world of work?
-datePublished: '2016-07-16T10:17:33.882Z'
-dateModified: '2016-07-16T10:17:33.398Z'
+datePublished: '2016-07-16T10:17:45.696Z'
+dateModified: '2016-07-16T10:17:45.403Z'
 sourcePath: >-
   _posts/2016-07-16-what-will-artificial-intelligence-mean-for-the-world-of-work.md
 starred: true
