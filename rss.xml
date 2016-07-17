@@ -4,7 +4,7 @@
         <description><![CDATA[People, leadership and the workplace in the Intelligence Age]]></description>
         <link>https://thegrid.ai/nudge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 10:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 10:54:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nudge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How AI Will Serve Us in the Workplace]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.theguardian.com/sustainable-business/2015/feb/17/artificial-intelligence-future-of-work</link>
             <guid isPermaLink="false">ab287484-75b0-4b87-a74e-70fbc037ebc4</guid>
             <pubDate>Sat, 16 Jul 2016 10:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[9 Innovations That Could Become the Next "Big Thing" - Startup Grind]]></title>
+            <description><![CDATA[<article><h1>9 Innovations That Could Become the Next "Big Thing" - Startup Grind</h1><p>Halfway into 2016, it is clear that we are living in a new era of innovation. Beyond Silicon Valley, corporations and startup hubs worldwide are tackling big problems like water scarcity and cancer. The concept of the "next big thing" is becoming redundant because breakthroughs have become normal.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/af758e25bc84c95921e1482bc449c2dc/noop.jpeg?input=https%3A%2F%2Fd262ilb51hltx0.cloudfront.net%2Fmax%2F1200%2F1*CXb4ky6qQAQpQ2aHvZ8BsQ.jpeg"></article>]]></description>
+            <link>https://thegrid.ai/nudge/9-innovations-that-could-become-the-next-big-thing-start/index.html</link>
+            <guid isPermaLink="false">9b5e10f7-4b54-4ece-8504-9264d8d4b752</guid>
+            <pubDate>Sun, 17 Jul 2016 10:53:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Character, Fate and Yahoo]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.economist.com/news/books-and-arts/21669597-computers-will-get-smarter-humans-charge-machines-thinking</link>
             <guid isPermaLink="false">9199bf74-9d79-4c7c-9992-53f477ebf491</guid>
             <pubDate>Sat, 16 Jul 2016 15:27:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will artificial intelligence overtake humans in the workplace?]]></title>
-            <description><![CDATA[<article><h1>Will artificial intelligence overtake humans in the workplace?</h1><p>Earlier this year, there were reports on advances in artificial intelligence. Stephen Hawking, Elon Musk and others voiced their concerns about computers overtaking humans, and it could start in the workplace, CBS News' Anthony Mason reports.</p></article>]]></description>
-            <link>http://www.cbsnews.com/news/will-a-i-overtake-humans-in-the-workplace/</link>
-            <guid isPermaLink="false">f354bc1d-8c15-40ba-997d-87915e68ae40</guid>
-            <pubDate>Sat, 16 Jul 2016 15:11:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
