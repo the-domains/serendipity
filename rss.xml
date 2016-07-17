@@ -4,7 +4,7 @@
         <description><![CDATA[Changing behaviour at  scale]]></description>
         <link>https://thegrid.ai/nudge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 04:37:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 05:10:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nudge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How AI Will Serve Us in the Workplace]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.theguardian.com/sustainable-business/2015/feb/17/artificial-intelligence-future-of-work</link>
             <guid isPermaLink="false">ab287484-75b0-4b87-a74e-70fbc037ebc4</guid>
             <pubDate>Sat, 16 Jul 2016 10:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[3 workplace trends to watch for in 2015 (and beyond)]]></title>
+            <description><![CDATA[<article><h1>3 workplace trends to watch for in 2015 (and beyond)</h1><p>If you happen to work at Microsoft, Google, Credit Suisse, or Unilever, you may be slightly ahead of your time - but only slightly. Those four companies have been featured in a new research report on the future of work.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3088847d130beccdb52508050e877ae4/noop.jpg?input=https%3A%2F%2Ffortunedotcom.files.wordpress.com%2F2014%2F12%2F157909923.jpg"></article>]]></description>
+            <link>http://fortune.com/2014/12/04/workplace-office-future-predictions/</link>
+            <guid isPermaLink="false">5c36b66a-fe07-499e-9a0c-8d201988094a</guid>
+            <pubDate>Sun, 17 Jul 2016 05:09:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Who's in charge of AI in the enterprise?]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.cnbc.com/2016/07/07/ai-will-transform-massive-swaths-of-the-workplace-linkedins-co-founder-says.html</link>
             <guid isPermaLink="false">c572f298-6d29-4644-8144-033633c55807</guid>
             <pubDate>Sat, 16 Jul 2016 09:30:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[From Science Fiction to Reality: The Evolution of Artificial Intelligence]]></title>
-            <description><![CDATA[<article><h1>From Science Fiction to Reality: The Evolution of Artificial Intelligence</h1><p>What was once just a figment of the imagination of some our most famous science fiction writers, artificial intelligence (AI) is taking root in our everyday lives. We're still a few years away from having robots at our beck and call, but AI has already had a profound impact in more subtle ways.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/357196ae30863a53e7710f55ebbdd64acab6cdce.jpg"></article>]]></description>
-            <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
-            <guid isPermaLink="false">53764c9d-8368-4d78-8a72-1164df115a8d</guid>
-            <pubDate>Sat, 16 Jul 2016 08:54:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
