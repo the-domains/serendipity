@@ -4,7 +4,7 @@
         <description><![CDATA[People, leadership and the workplace in the Intelligence Age]]></description>
         <link>https://thegrid.ai/nudge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 06:45:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 10:53:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nudge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How AI Will Serve Us in the Workplace]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.theguardian.com/sustainable-business/2015/feb/17/artificial-intelligence-future-of-work</link>
             <guid isPermaLink="false">ab287484-75b0-4b87-a74e-70fbc037ebc4</guid>
             <pubDate>Sat, 16 Jul 2016 10:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Character, Fate and Yahoo]]></title>
+            <description><![CDATA[<article><h1>Character, Fate and Yahoo</h1><p>Yahoo, we hardly knew ye. But then again, ye hardly knew yourself. Vindu Goel and Michael de la Merced write that the auction for the internet company's core services like email, search and advertising is about to close.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8d6a74e912ea85a83792b048d645472b/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F07%2F16%2Ftechnology%2F16bitsdaily%2F16bitsdaily-facebookJumbo.jpg&x=0&y=0"></article>]]></description>
+            <link>http://www.nytimes.com/2016/07/16/technology/character-fate-and-yahoo.html?_r=0</link>
+            <guid isPermaLink="false">528c85bf-6a87-4f6e-8d08-8cc930feac3e</guid>
+            <pubDate>Sun, 17 Jul 2016 10:53:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I, Robot: Organizational Design, Artificial Intelligence and Your Workplace]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.cbsnews.com/news/will-a-i-overtake-humans-in-the-workplace/</link>
             <guid isPermaLink="false">f354bc1d-8c15-40ba-997d-87915e68ae40</guid>
             <pubDate>Sat, 16 Jul 2016 15:11:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There's Hope For Artificial Intelligence in the Workplace - Artificial Intelligence Online]]></title>
-            <description><![CDATA[<article><h1>There's Hope For Artificial Intelligence in the Workplace - Artificial Intelligence Online</h1><p>Technology is often described as an enabler, but technology trends and concepts can also shape how we view the world. Depending on your point of view, you might see the workplace as a complicated human-powered machine that needs to be maintained for peak performance. Or you might think of it as an organism that needs ...</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/1edc3b581f4544564ddb099e47e0a2ef/noop.jpg?input=http%3A%2F%2Fwww.artificialintelligenceonline.com%2Fwp-content%2Fuploads%2F2016%2F03%2F686af05915f346a486ad9b7265e233bb.jpg"></article>]]></description>
-            <link>http://www.artificialintelligenceonline.com/7413/theres-hope-for-artificial-intelligence-in-the-workplace/</link>
-            <guid isPermaLink="false">80bd374d-2222-4fa1-93ea-d74bb08b7637</guid>
-            <pubDate>Sat, 16 Jul 2016 09:54:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
