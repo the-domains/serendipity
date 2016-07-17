@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Changing behaviour at  scale]]></title>
-        <description><![CDATA[Changing behaviour at  scale]]></description>
+        <title><![CDATA[People, leadership and the workplace in the Intelligence Age]]></title>
+        <description><![CDATA[People, leadership and the workplace in the Intelligence Age]]></description>
         <link>https://thegrid.ai/nudge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 05:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 06:45:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nudge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How AI Will Serve Us in the Workplace]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.theguardian.com/sustainable-business/2015/feb/17/artificial-intelligence-future-of-work</link>
             <guid isPermaLink="false">ab287484-75b0-4b87-a74e-70fbc037ebc4</guid>
             <pubDate>Sat, 16 Jul 2016 10:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I, Robot: Organizational Design, Artificial Intelligence and Your Workplace]]></title>
+            <description><![CDATA[<article><h1>I, Robot: Organizational Design, Artificial Intelligence and Your Workplace</h1><p>In a recent blog, we wrote about the emerging trend to "virtual", for teams, workplaces, and entire organizations. In today's blog, we go further, look forward, and explore another driver of change in tomorrow's workplace - the increasing adoption of robotic and artificially intelligent systems and applications, and the implications of this trend for organizational design and the role of HR.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/45983c9bbe4d4d1cbeec55523d315884/noop.jpg?input=http%3A%2F%2Fcdn2.hubspot.net%2Fhub%2F217889%2Ffile-496805949-jpg%2FScarlett-2.jpg%3Ft%3D1468615622604"></article>]]></description>
+            <link>http://blog.organimi.com/organizational-design-artificial-intelligence-and-your-workplace</link>
+            <guid isPermaLink="false">c6778019-7298-4a49-8c63-3fa430fd30c8</guid>
+            <pubDate>Sun, 17 Jul 2016 06:45:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[3 workplace trends to watch for in 2015 (and beyond)]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.artificialintelligenceonline.com/7413/theres-hope-for-artificial-intelligence-in-the-workplace/</link>
             <guid isPermaLink="false">80bd374d-2222-4fa1-93ea-d74bb08b7637</guid>
             <pubDate>Sat, 16 Jul 2016 09:54:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[AI will transform 'massive swaths' of the workplace, LinkedIn's co-founder says]]></title>
-            <description><![CDATA[<article><h1>AI will transform 'massive swaths' of the workplace, LinkedIn's co-founder says</h1><p>Artificial intelligence is going to transform "massive swaths" of the workplace, LinkedIn co-founder Reid Hoffman said Thursday. And its effects will be felt beyond sectors like manufacturing and energy, reaching into professional spheres like doctors, lawyers and financial analysts, he said. "It could have very positive effects, but it has very dynamic effects.</p></article>]]></description>
-            <link>http://www.cnbc.com/2016/07/07/ai-will-transform-massive-swaths-of-the-workplace-linkedins-co-founder-says.html</link>
-            <guid isPermaLink="false">c572f298-6d29-4644-8144-033633c55807</guid>
-            <pubDate>Sat, 16 Jul 2016 09:30:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
