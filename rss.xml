@@ -4,7 +4,7 @@
         <description><![CDATA[Changing behaviour at  scale]]></description>
         <link>https://thegrid.ai/nudge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 15:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 04:37:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nudge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How AI Will Serve Us in the Workplace]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.theguardian.com/sustainable-business/2015/feb/17/artificial-intelligence-future-of-work</link>
             <guid isPermaLink="false">ab287484-75b0-4b87-a74e-70fbc037ebc4</guid>
             <pubDate>Sat, 16 Jul 2016 10:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Who's in charge of AI in the enterprise?]]></title>
+            <description><![CDATA[<article><h1>Who's in charge of AI in the enterprise?</h1><p>Artificial intelligence (AI) is starting to disrupt the workplace as applications powered by machine-learning algorithms begin to permeate enterprises at every level. Just who's doing that disrupting - and to whom do they report? Data scientists, business architects and quantitative analysts (also known as quants) are most often the professionals exploiting the burgeoning technology - sometimes under the mantel of the IT department, but often not.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/4c781810e7986e168a66b3e24f500613/noop.jpg?input=http%3A%2F%2Fcore0.staticworld.net%2Fimages%2Farticle%2F2014%2F10%2Fartificial_intelligence_circuit_board_face_thinkstock-100528007-primary.idge.jpg"></article>]]></description>
+            <link>http://www.cio.com/article/3033141/robotics/whos-in-charge-of-ai-in-the-enterprise.html</link>
+            <guid isPermaLink="false">10c62ad1-09f0-4a65-9eae-ff1045b360c6</guid>
+            <pubDate>Sun, 17 Jul 2016 04:37:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Jerry Kaplan: "Humans Need Not Apply" | Talks at Google]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.wired.com/insights/2015/01/the-evolution-of-artificial-intelligence/</link>
             <guid isPermaLink="false">53764c9d-8368-4d78-8a72-1164df115a8d</guid>
             <pubDate>Sat, 16 Jul 2016 08:54:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artificial intelligence in the workplace - raconteur.net]]></title>
-            <description><![CDATA[<article><h1>Artificial intelligence in the workplace - raconteur.net</h1><p>Infographic outlining how artificial intelligence is proving its worth in 5 key sectors - from law and finance, to marketing and advertising</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fac5460b98584f32abaa804ce2a15493/noop.jpg?input=http%3A%2F%2Fraconteur.net%2Fadmin%2F..%2Fpublic%2Fimg%2Farticles%2F2015%2F12%2FRaconteur-Artificial-Intelligence-for-Business-Dashboard-1160x670.jpg"></article>]]></description>
-            <link>http://raconteur.net/infographics/artificial-intelligence-in-the-workplace</link>
-            <guid isPermaLink="false">275b3dd0-bda2-4dbc-9d2a-23b3ee6f02de</guid>
-            <pubDate>Sat, 16 Jul 2016 08:50:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
