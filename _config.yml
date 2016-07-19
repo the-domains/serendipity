@@ -1,15 +1,15 @@
-typography_spectrum: 0.2449321064632386
+typography_spectrum: 0.24878328759223223
 color:
-  brandStrength: 0.04030027752742171
-  lightness: 0.648656613426283
-  saturation: 0.19082886446267366
-  rhythmicContrast: 0.7787368991412222
+  brandStrength: 0.6950412187725306
+  lightness: 0.6007367775309831
+  saturation: 0.23171096527948976
+  rhythmicContrast: 0.8012261297553778
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
 layout_spectrum: 0.559477727394551
 name: Nudge
 favicon: >-
