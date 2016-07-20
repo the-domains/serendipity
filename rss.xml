@@ -4,7 +4,7 @@
         <description><![CDATA[People, leadership and the workplace in the Intelligence Age]]></description>
         <link>https://thegrid.ai/nudge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 14:20:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2016 08:53:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nudge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How AI Will Serve Us in the Workplace]]></title>
@@ -19,6 +19,13 @@
             <link>https://www.theguardian.com/sustainable-business/2015/feb/17/artificial-intelligence-future-of-work</link>
             <guid isPermaLink="false">ab287484-75b0-4b87-a74e-70fbc037ebc4</guid>
             <pubDate>Sat, 16 Jul 2016 10:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AI will transform 'massive swaths' of the workplace, LinkedIn's co-founder says]]></title>
+            <description><![CDATA[<article><h1>AI will transform 'massive swaths' of the workplace, LinkedIn's co-founder says</h1><p>Artificial intelligence is going to transform "massive swaths" of the workplace, LinkedIn co-founder Reid Hoffman said Thursday. And its effects will be felt beyond sectors like manufacturing and energy, reaching into professional spheres like doctors, lawyers and financial analysts, he said. "It could have very positive effects, but it has very dynamic effects.</p></article>]]></description>
+            <link>http://www.cnbc.com/2016/07/07/ai-will-transform-massive-swaths-of-the-workplace-linkedins-co-founder-says.html</link>
+            <guid isPermaLink="false">c572f298-6d29-4644-8144-033633c55807</guid>
+            <pubDate>Wed, 20 Jul 2016 08:53:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[I, Robot: Organizational Design, Artificial Intelligence and Your Workplace]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.timeshighereducation.com/books/review-humans-need-not-apply-jerry-kaplan</link>
             <guid isPermaLink="false">128dbfed-994c-4eff-a6ad-e5875562e320</guid>
             <pubDate>Sat, 16 Jul 2016 15:27:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Machines for thinking]]></title>
-            <description><![CDATA[<article><h1>Machines for thinking</h1><p>Machines of Loving Grace: The Quest for Common Ground Between Humans and Robots. By John Markoff. Ecco; 400 pages; $26.99. The Master Algorithm: How the Quest for the Ultimate Learning Machine Will Remake Our World. By Pedro Domingos. Basic Books; 352 pages; $29.99. Allen Lane; £20.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/3f23ef5aade8e52da81370d61f239214/croprotate.jpg?cropheight=626&cropwidth=1200&degrees=0&input=http%3A%2F%2Fcdn.static-economist.com%2Fsites%2Fdefault%2Ffiles%2Fcf_images%2Fimages-magazine%2F2015%2F10%2F03%2FBK%2F20151003_BKD001_facebook.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.economist.com/news/books-and-arts/21669597-computers-will-get-smarter-humans-charge-machines-thinking</link>
-            <guid isPermaLink="false">9199bf74-9d79-4c7c-9992-53f477ebf491</guid>
-            <pubDate>Sat, 16 Jul 2016 15:27:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
