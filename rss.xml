@@ -4,7 +4,7 @@
         <description><![CDATA[People, leadership and the workplace in the Intelligence Age]]></description>
         <link>https://thegrid.ai/nudge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 00:37:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 00:48:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nudge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What will artificial intelligence mean for the world of work?]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.theguardian.com/sustainable-business/2015/feb/17/artificial-intelligence-future-of-work</link>
             <guid isPermaLink="false">ab287484-75b0-4b87-a74e-70fbc037ebc4</guid>
             <pubDate>Sat, 16 Jul 2016 10:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Artificial Intelligence vs. Intelligence Augmentation Debate]]></title>
+            <description><![CDATA[<article><h1>The Artificial Intelligence vs. Intelligence Augmentation Debate</h1><p>A year ago, Tesla [NASDAQ: TSLA] CEO Elon Musk and Cambridge physicist Stephen Hawking created a stir as prominent signatories of an open letter warning about the dangers of artificial intelligence (AI) and the need for concerted efforts in the research community to guide AI towards socially beneficial outcomes.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/615e814c-bdd3-4bff-b1e4-2879f1fdd5c9.gif"></article>]]></description>
+            <link>http://www.financialsense.com/contributors/guild/artificial-intelligence-vs-intelligence-augmentation-debate</link>
+            <guid isPermaLink="false">23c25dc8-066f-4326-894f-36b2edb5c7f6</guid>
+            <pubDate>Fri, 22 Jul 2016 00:48:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How AI Will Serve Us in the Workplace]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/hoDxcO2EOHM</link>
             <guid isPermaLink="false">f4e4163e-89a2-46a9-8c8d-0a03968b90ac</guid>
             <pubDate>Sat, 16 Jul 2016 15:28:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Humans Need Not Apply: A Guide to Wealth and Work in the Age of Artificial Intelligence, by Jerry Kaplan]]></title>
-            <description><![CDATA[<article><h1>Humans Need Not Apply: A Guide to Wealth and Work in the Age of Artificial Intelligence, by Jerry Kaplan</h1><p>As a science-fiction writer, I am happy to admit that artificial intelligence regularly gets a bad press in the more popular tales of the future.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/647edd4a6e055b8ed3d28a5dc1ee64dc/croprotate.jpg?cropheight=500&cropwidth=378&degrees=0&input=https%3A%2F%2Fwww.timeshighereducation.com%2Fsites%2Fdefault%2Ffiles%2Fbook-review-humans-need-not-apply-jerry-kaplan.jpg&x=184&y=0"></article>]]></description>
-            <link>https://www.timeshighereducation.com/books/review-humans-need-not-apply-jerry-kaplan</link>
-            <guid isPermaLink="false">128dbfed-994c-4eff-a6ad-e5875562e320</guid>
-            <pubDate>Sat, 16 Jul 2016 15:27:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
