@@ -4,7 +4,7 @@
         <description><![CDATA[People, leadership and the workplace in the Intelligence Age]]></description>
         <link>https://thegrid.ai/nudge/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 00:49:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2016 00:49:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nudge/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What will artificial intelligence mean for the world of work?]]></title>
@@ -12,6 +12,13 @@
             <link>https://www.theguardian.com/sustainable-business/2015/feb/17/artificial-intelligence-future-of-work</link>
             <guid isPermaLink="false">ab287484-75b0-4b87-a74e-70fbc037ebc4</guid>
             <pubDate>Sat, 16 Jul 2016 10:17:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Man and machine are a winning team in the workplace - raconteur.net]]></title>
+            <description><![CDATA[<article><h1>Man and machine are a winning team in the workplace - raconteur.net</h1><p>When boffins at Oxford University and management consultants Deloitte published a joint study, which forecast that over the next ten to twenty years 35 per cent of UK jobs are at high risk of automation by machines with artificial intelligence, it sent frissons of fear down many people's spines.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/bbb1a33ebbd6f8cd74a0a2de8e8514b2/noop.jpg?input=http%3A%2F%2Fraconteur.net%2Fadmin%2F..%2Fpublic%2Fimg%2Farticles%2F2015%2F12%2FMan-and-machine-360x203.jpg"></article>]]></description>
+            <link>http://raconteur.net/technology/man-and-machine-are-a-winning-team-in-the-workplace</link>
+            <guid isPermaLink="false">c83b3d86-c1f5-461e-b685-6f36c265e0a7</guid>
+            <pubDate>Fri, 22 Jul 2016 00:49:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What Is Intelligence Augmentation (IA)?]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/nudge/9-innovations-that-could-become-the-next-big-thing-start/index.html</link>
             <guid isPermaLink="false">9b5e10f7-4b54-4ece-8504-9264d8d4b752</guid>
             <pubDate>Sun, 17 Jul 2016 10:53:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Character, Fate and Yahoo]]></title>
-            <description><![CDATA[<article><h1>Character, Fate and Yahoo</h1><p>Yahoo, we hardly knew ye. But then again, ye hardly knew yourself. Vindu Goel and Michael de la Merced write that the auction for the internet company's core services like email, search and advertising is about to close.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8d6a74e912ea85a83792b048d645472b/croprotate.jpg?cropheight=548&cropwidth=1050&degrees=0&input=https%3A%2F%2Fstatic01.nyt.com%2Fimages%2F2016%2F07%2F16%2Ftechnology%2F16bitsdaily%2F16bitsdaily-facebookJumbo.jpg&x=0&y=0"></article>]]></description>
-            <link>http://www.nytimes.com/2016/07/16/technology/character-fate-and-yahoo.html?_r=0</link>
-            <guid isPermaLink="false">528c85bf-6a87-4f6e-8d08-8cc930feac3e</guid>
-            <pubDate>Sun, 17 Jul 2016 10:53:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
