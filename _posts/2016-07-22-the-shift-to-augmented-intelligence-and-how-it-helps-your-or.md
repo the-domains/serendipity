@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-22T00:51:55.174Z'
+datePublished: '2016-07-22T00:53:03.380Z'
 isBasedOnUrl: >-
   http://www.brainspace.com/blog/the-shift-to-augmented-intelligence-and-how-it-helps-your-organization
 keywords:
@@ -19,7 +19,7 @@ author:
     url: null
     avatar: {}
 via: {}
-dateModified: '2016-07-22T00:51:39.266Z'
+dateModified: '2016-07-22T00:53:01.225Z'
 title: The Shift to Augmented Intelligence and How it Helps Your Organization
 app_links: []
 publisher:
@@ -35,9 +35,9 @@ description: >-
   of their data and knowledge using technology which simply stored and organized
   it.
 inLanguage: en
-starred: false
 sourcePath: >-
   _posts/2016-07-22-the-shift-to-augmented-intelligence-and-how-it-helps-your-or.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
